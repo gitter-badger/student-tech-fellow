@@ -54,3 +54,9 @@ Gitter is a tool we'll use to communicate with you throughout the lesson.
 [Click here](https://www.google.com) when you start your session to sign into the chat with Github!
 
 Make sure you're signed in at the beginning of the session!
+
+- - -
+
+### Copyright
+
+Coding Boot Camp © 2017. All Rights Reserved.

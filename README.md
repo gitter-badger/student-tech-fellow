@@ -2,17 +2,19 @@
 
 ### Session coming up?
 
-If it's your first session, __[read this getting started guide](gettingStarted.md)__ - don't worry, it's quick.
+If it's your first session, [read this getting started guide](gettingStarted.md) - __don't worry, it's quick.__
 
-__Next__, head to 01-Upcoming-Classes
+Next, head to 01-Class-Content
 
 Look for your session title. If don't know your session title __slack your general channel or SSM__ and ask!
 
-Hop inside, you'll see instructions for installations we'd like you to complete beforehand for your specific session!
+The __readme.md__ inside that folder will contain instructions for installations we'd like you to complete beforehand for your specific session!
 
 ### Want to view a past session?
 
-You'll find a folder for each session held labeled date & topic!
+Head to __02-Past-Recordings__, you'll find sessions labeled by date and topic!
+
+Once you pick your video, head to __01-Class-Content__ and find the matching topic folder, everything you need is inside to follow along.
 
 __Inside each session, you'll find:__
  
