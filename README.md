@@ -12,15 +12,14 @@ The __readme.md__ inside that folder will contain instructions for installations
 
 ### Want to view a past session?
 
-Head to __02-Past-Recordings__, you'll find sessions labeled by date and topic!
+Head to __02-Past-Recordings__, you'll find folders labeled by date and topic. Each folder has a recording inside.
 
-Once you pick your video, head to __01-Class-Content__ and find the matching topic folder, everything you need is inside to follow along.
+Once you pick your recording, head to __01-Class-Content__ and find the matching topic folder.
 
-__Inside each session, you'll find:__
+This contains everything you need to follow along:
  
  * Setup and Installations
- * Session Recording
- * Slides
+ * Slideshows
  * Activities
 
 - - -
