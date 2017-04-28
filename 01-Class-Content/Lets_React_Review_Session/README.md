@@ -20,7 +20,7 @@ and why it can make things easier, especially with React. We'll also cover UDF
 
 #### Getting Setup
 
-There are two files in this repo under [Group_Challenges](https://github.com/coding-boot-camp/student-tech-fellow/tree/master/Lets_React_Review_Session/Group_Challenges).
+There are two files in this repo under [Group_Challenges](https://github.com/coding-boot-camp/student-tech-fellow/tree/master/01-Class-Content/Lets_React_Review_Session/Group_Challenges/).
 Please make sure to cd into __both__ and read the README.md file there.
 It will tell you the commands you need to get started. These will be the exercises we work on together in group sessions.
 
