@@ -20,13 +20,13 @@ and why it can make things easier, especially with React. We'll also cover UDF
 
 #### Getting Setup
 
-There are two files in this repo under [01-Class-Content](https://github.com/coding-boot-camp/student-tech-fellow/01-Class-Content).
+There are two files in this repo under [Group_Challenges](https://github.com/coding-boot-camp/student-tech-fellow/tree/master/Lets_React_Review_Session/Group_Challenges).
 Please make sure to cd into __both__ and read the README.md file there.
 It will tell you the commands you need to get started. These will be the exercises we work on together in group sessions.
 
 #### Also
 
-You will have a much better experience with two screens, if that means logging in from two computers by all means. We also ask that you please make sure you have your cameras and microphones on so we can hear and see you. To help you get setup with peripherals take a quick minute to also read [gettingStarted.md](https://github.com/coding-boot-camp/student-tech-fellow/gettingStarted.md)
+You will have a much better experience with two screens, if that means logging in from two computers by all means. We also ask that you please make sure you have your cameras and microphones on so we can hear and see you. To help you get setup with peripherals take a quick minute to also read [gettingStarted.md](https://github.com/coding-boot-camp/student-tech-fellow/tree/master/gettingStarted.md)
 as a pre-flight checklist.
 
 As with any review session make sure you bring your questions as well. This is the time to close those gaps in your understanding of React, JS ES6, and the View layer of the Stack.
