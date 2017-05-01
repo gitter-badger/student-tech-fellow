@@ -1,0 +1,28 @@
+{
+  "name": "timer-starter",
+  "version": "1.0.0",
+  "description": "React Stop Watch",
+  "main": "App.js",
+  "scripts": {
+    "start": "npm run build",
+    "build": "webpack -d && webpack-dev-server --content-base ./ --inline --hot",
+    "build:prod": "webpack -p"
+  },
+  "keywords": [
+    "reactjs",
+    "reactDOM"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-hot-loader": "^3.0.0-beta.6",
+    "webpack": "^2.4.1",
+    "webpack-dev-server": "^2.4.5"
+  }
+}
