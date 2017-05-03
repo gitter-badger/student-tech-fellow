@@ -12,9 +12,9 @@ The __readme.md__ inside that folder will contain instructions for installations
 
 ### Want to view a past session?
 
-Head to __02-Past-Recordings__, you'll find folders labeled by date and topic. Each folder has a recording inside.
+Use this [link](https://drive.google.com/drive/folders/0BxfSfCS9NY44YWNjQ3BRWDV2Z0U?usp=sharing) to find the video, you'll find folders labeled by date and topic. Each folder has a recording inside.
 
-Once you pick your recording, head to __01-Class-Content__ and find the matching topic folder.
+Once you pick your recording, head to [__01-Class-Content__](01-Class-Content) and find the matching topic folder.
 
 This contains everything you need to follow along:
  
