@@ -38,3 +38,13 @@ With that said keep your arms and legs inside the vehicle at all times and let's
 By the end of this review I know you are going to feel like a React Master of the Universe and you'll know React so well you'll be telling people:
 
 ![Smooth](images/smooth.gif)
+
+
+#### And if you missed it...
+
+Well darn. We covered some really cool stuff but if you weren't able to make it you can check out this [video](https://drive.google.com/drive/folders/0BxfSfCS9NY44YWNjQ3BRWDV2Z0U?usp=sharing) of the full-stack MERN review.
+
+- - -
+  ## Copyright
+
+  Coding Boot Camp (C) 2017. All Rights Reserved.

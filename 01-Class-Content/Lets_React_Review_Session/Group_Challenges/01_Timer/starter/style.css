@@ -1,0 +1,29 @@
+body {
+  background-color: #eee;
+}
+
+button {
+  padding: 15px;
+  margin: 20px;
+}
+
+.btn-box {
+  display: flex;
+}
+
+.app {
+  color: white;
+  text-align: center;
+  font-family: monospace;
+  margin: 120px auto;
+}
+
+.app h1 {
+  padding: 10px;
+}
+
+.app p {
+  color: red;
+  font-size: 4.5em;
+  font-weight: bold;
+}
